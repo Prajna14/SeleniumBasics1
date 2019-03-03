@@ -21,6 +21,7 @@ for id in mul_wind_id:
 # time.sleep(3)
 driver.quit()
 #test
+#test1
 # print(mul_wind_id)
 # print(type(mul_wind_id))
 # print(mul_wind_id[1])
