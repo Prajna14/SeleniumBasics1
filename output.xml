@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.1 (Python 3.7.1 on win32)" generated="20190302 18:12:00.101" rpa="false">
+<suite id="s1" name="Demo" source="C:\Users\prajn\PycharmProjects\Selenium\SeleniumBasics\demo.robot">
+<test id="s1-t1" name="open browser https://www.google.com/ ff">
+<status status="FAIL" starttime="20190302 18:12:00.185" endtime="20190302 18:12:00.186" critical="yes">Test case contains no keywords.</status>
+</test>
+<status status="FAIL" starttime="20190302 18:12:00.110" endtime="20190302 18:12:00.188"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="Demo">Demo</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
